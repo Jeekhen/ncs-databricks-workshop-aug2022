@@ -1,6 +1,6 @@
 # Databricks notebook source
 # ANSWER
-my_name = "Donald Duck"
+my_name = None
 
 # COMMAND ----------
 
